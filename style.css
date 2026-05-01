@@ -1,0 +1,12 @@
+body{
+text-align:center;
+font-family:Arial;
+}
+h1{
+color:blue;
+}
+a{
+display:block;
+margin:10px;
+font-size:20px;
+}
